@@ -2225,12 +2225,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/dinosaurfinance"
+        href: "https://t.me/duckdefi"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/DinoFinance",
+        href: "https://twitter.com/duckfinance_",
     },
 ];
 var MENU_HEIGHT = 64;
